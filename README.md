@@ -16,7 +16,7 @@ Welcome to my personal CV repository! This project is a custom-built, responsive
 
 ## 🚀 View My Site
 You can view the live version of my CV here: 
-file:///C:/Users/katep/OneDrive/Work/Level%203/Task%201/index.html#
+https://katepartridge11.github.io/My-CV/
 
 ## 📂 How to Run Locally
 1. Clone this repository:
